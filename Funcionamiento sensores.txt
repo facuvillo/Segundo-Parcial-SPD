@@ -1,0 +1,15 @@
+pantalla_LCD = Muestra el mensaje de la temperatura, la estación y la alerta
+Potenciometro = Regula el contraste de la pantalla LCD
+resistencia_LCD = Introduce resistencia a la pantalla LCD
+
+Control_Remoto_IR = Manda la señal de encendido y apagado
+Sensor_IR = Resibe la señal del control remoto
+
+LED_1 = Se enciende y se apaga en caso de alerta
+LED_2 = Se enciende y se apaga en caso de alerta
+Resistencia_1 = Introduce una resistencia al primer led de alerta
+Resistencia_2 = Introduce una resistencia al segundo led de alerta
+
+Sensor temperatura = Toma los datos de la temperatura
+
+Servo_motor = Se mueve en caso de alerta como una forma de aviso
